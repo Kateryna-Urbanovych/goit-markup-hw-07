@@ -369,8 +369,8 @@ img {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: #212121;
-  -webkit-transition: color 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: color 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .site-nav-link:hover, .site-nav-link:focus {
@@ -404,8 +404,8 @@ img {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: #757575;
-  -webkit-transition: color 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: color 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .contacts-link:hover, .contacts-link:focus {
@@ -417,10 +417,10 @@ img {
   fill: currentColor;
   -webkit-transform: rotateY(0);
           transform: rotateY(0);
-  -webkit-transition: -webkit-transform 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: -webkit-transform 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1), -webkit-transform 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1), -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .contacts-link:hover .contacts-icon,
@@ -520,8 +520,8 @@ img {
   margin-right: auto;
   padding: 10px 55px 10px 56px;
   font-weight: 700;
-  -webkit-transition: background-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: background-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .button-form-order:hover, .button-form-order:focus {
@@ -648,10 +648,10 @@ img {
 .team-socials-icon {
   fill: #afb1b8;
   background-color: #ffffff;
-  -webkit-transition: fill 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: fill 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  -webkit-transition: background-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: background-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .team-socials-icon:hover, .team-socials-icon:focus {
@@ -680,8 +680,8 @@ img {
   border-radius: 4px;
   -webkit-transform: scale(1);
           transform: scale(1);
-  -webkit-transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .clients-icon:hover, .clients-icon:focus {
@@ -753,8 +753,8 @@ img {
 .footer-socials-icon {
   fill: #ffffff;
   background-color: rgba(255, 255, 255, 0.1);
-  -webkit-transition: background-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: background-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .footer-socials-icon:hover, .footer-socials-icon:focus {
@@ -816,8 +816,8 @@ img {
   opacity: 1;
   -webkit-transform: scale(1);
           transform: scale(1);
-  -webkit-transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .backdrop.is-hidden {
@@ -869,8 +869,8 @@ img {
   padding-left: 42px;
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
-  -webkit-transition: border-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: border-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .input:focus, .input:not(:placeholder-shown) {
@@ -884,8 +884,8 @@ img {
   left: 42px;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  -webkit-transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .input:focus + .label,
@@ -902,8 +902,8 @@ img {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   fill: #212121;
-  -webkit-transition: fill 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: fill 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .input:focus ~ .form-order-icon,
@@ -918,8 +918,8 @@ img {
   height: 120px;
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
-  -webkit-transition: border-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: border-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .textarea:focus, .textarea:not(:placeholder-shown) {
@@ -931,8 +931,8 @@ img {
   position: absolute;
   top: 12px;
   left: 16px;
-  -webkit-transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .form-order-field.comment:focus-within .label-comment,
@@ -957,8 +957,8 @@ img {
   border: 2px solid #212121;
   border-radius: 2px;
   background-color: #ffffff;
-  -webkit-transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .input-check:checked + .label-check::before {
@@ -984,8 +984,8 @@ img {
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
   fill: #000000;
-  -webkit-transition: fill 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: fill 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .icon-close-form:hover, .icon-close-form:focus {
@@ -1015,8 +1015,8 @@ img {
   background-color: #f5f4fa;
   -webkit-box-shadow: none;
           box-shadow: none;
-  -webkit-transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: all 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .filters-button:hover, .filters-button:focus {
@@ -1040,10 +1040,10 @@ img {
   margin: 15px;
   -webkit-box-shadow: none;
           box-shadow: none;
-  -webkit-transition: -webkit-box-shadow 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: -webkit-box-shadow 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: box-shadow 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: box-shadow 800ms cubic-bezier(0.4, 0, 0.2, 1), -webkit-box-shadow 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: -webkit-box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: -webkit-box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), -webkit-box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .examples-card:hover, .examples-card:focus {
@@ -1072,10 +1072,10 @@ img {
   background-color: rgba(33, 150, 243, 0.9);
   -webkit-transform: translateY(100%);
           transform: translateY(100%);
-  -webkit-transition: -webkit-transform 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: -webkit-transform 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1), -webkit-transform 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1), -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .examples-card:hover .examples-card-overlay,
