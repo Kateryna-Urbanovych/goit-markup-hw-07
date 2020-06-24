@@ -64,8 +64,7 @@
   left: 42px;
   transform: translateY(-50%);
 
-  @include transition(color);
-  @include transition(transform);
+  @include transition(all);
 
   .input:focus + &,
   .input:not(:placeholder-shown) + & {
@@ -115,8 +114,7 @@
   top: 12px;
   left: 16px;
 
-  @include transition(color);
-  @include transition(transform);
+  @include transition(all);
 
   .form-order-field.comment:focus-within &,
   .textarea:not(:placeholder-shown) + & {
@@ -186,8 +184,7 @@
   border-radius: 2px;
   background-color: $white-color;
 
-  @include transition(border-color);
-  @include transition(background-color);
+  @include transition(all);
 
   .input-check:checked + & {
     background-color: $accent-color;

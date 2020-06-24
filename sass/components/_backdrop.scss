@@ -9,8 +9,7 @@
 
   opacity: 1;
   transform: scale(1);
-  @include transition(opacity);
-  @include transition(transform);
+  @include transition(all);
 
   &.is-hidden {
     opacity: 0;

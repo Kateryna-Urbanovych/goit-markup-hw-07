@@ -26,9 +26,7 @@
   background-color: $secondary-bgc;
   box-shadow: none;
 
-  @include transition(color);
-  @include transition(background-color);
-  @include transition(box-shadow);
+  @include transition(all);
 
   &:hover,
   &:focus {
